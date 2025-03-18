@@ -1,0 +1,2 @@
+C:\lab1\Hospital\Hospital.Domain\obj\Debug\Hospital.Domain.csproj.AssemblyReference.cache
+C:\lab1\Hospital\Hospital.Domain\obj\Debug\Hospital.Domain.csproj.CoreCompileInputs.cache
